@@ -16,4 +16,4 @@ This is my **basic portfolio website** made using only **HTML** — no CSS, no J
 
 ---
 
-## 📁 Folder Structure
+
